@@ -1,0 +1,5 @@
+*.exe
+*.nupkg
+**/log/
+**/output/
+**/ExcelData/
